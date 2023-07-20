@@ -11,8 +11,7 @@ Run the programme using the remix web-based IDE at https://remix.ethereum.org/ a
 
 contract MyToken {
 
-// public variables here
-
+// Public variables here
     string public tokenName = "BOOM";
     string public tokenAbbrv = "BOM";
     uint public totalSupply = 0;
